@@ -47,6 +47,9 @@
         Development of a web application to play chess locally or online. Includes user management, game rooms, and match logging. Implemented with <strong>JavaScript</strong>, <strong>Node.js</strong>, and <strong>Express</strong>, using <strong>MongoDB Atlas</strong> for data persistence and deployed on <strong>AWS</strong>.
       </p>
       <p>
+        <strong>Proyecto creado en colaboracion con:</strong> Ezequiel Morales (Forcex Dev).
+      </p>
+      <p>
         <i>Technologies:</i> <br>
         <code>Node.js</code> <code>Express</code> <code>JavaScript</code> <code>MongoDB</code> <code>AWS</code>
       </p>
