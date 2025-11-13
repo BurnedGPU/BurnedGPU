@@ -25,7 +25,7 @@
 <table width="100%">
   <tr>
     <td width="70%">
-      <h4>1. IoT Medicine Dispenser (Vita Melius)</h4>
+      <h4>1. IoT Medicine Dispenser</h4>
       <p>
         Prototype of an intelligent (IoT) medicine dispenser developed as a university project. The system uses an <strong>ESP32</strong> (programmed in C++) to control servomotors and sensors. It connects via Wi-Fi to a <strong>REST API (Node.js/Express)</strong> to receive schedules and report intakes, managed from a <strong>web app (React)</strong> and stored in <strong>MongoDB</strong>.
       </p>
