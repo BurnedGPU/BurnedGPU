@@ -1,3 +1,16 @@
+<!-- Header and Greeting -->
+
+<div align="center">
+<h1>Welcome!👋</h1>
+<p>
+<strong>This is my Github Profile, you will find here pretty much everything about the
+proyects i’ve been working on the last few years. | For extra information
+about me you can check out my Linkedin Profile</strong>
+</p>
+</div>
+
+<!-- About Me -->
+
 👨‍💻 About Me
 
 <ul>
