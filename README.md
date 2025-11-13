@@ -52,7 +52,7 @@
       </p>
     </td>
     <td align="center">
-      <a href="https://github.com/BurnedGPU/Trabajo_estadistica_2025-1" target="_blank">
+      <a href="https://github.com/BurnedGPU/GrandChessAuto_DesarrolloWeb" target="_blank">
         <img src="https://img.shields.io/badge/View_Repository-303030?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
       </a>
     </td>
