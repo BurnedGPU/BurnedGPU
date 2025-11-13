@@ -4,7 +4,7 @@
     <strong>This is my Github Profile. You will find here pretty much everything about the projects I've been working on the last few years.</strong>
   </p>
   <p>
-    <a href="https://www.linkedin.com/in/francisco-javier-piñera-cavieres-81662337a" target="_blank"><strong>Check out my LinkedIn Profile</strong></a>
+    <strong>|0_o|</strong>
   </p>
 </div>
 
@@ -78,7 +78,7 @@
 
 <div align="center">
   
-  **Programming Languages**<br><br>
+  **Programming Languages**<br>
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -88,7 +88,7 @@
 
   <br><br>
 
-  **Frontend & Backend**<br><br>
+  **Frontend & Backend**<br>
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -96,7 +96,7 @@
 
   <br><br>
 
-  **Databases**<br><br>
+  **Databases**<br>
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
   ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -104,7 +104,7 @@
 
   <br><br>
 
-  **Tools & Hardware**<br><br>
+  **Tools & Hardware**<br>
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -126,10 +126,10 @@
 
 <br>
 
-## 📫 How to Reach Me
+## 📫 Contact info.
 
 <div align="center">
-  <p>I'm open to connecting and for internship opportunities! Feel free to contact me.</p>
+  <p>(for internship opportunities)</p>
   
   <a href="https://www.linkedin.com/in/francisco-javier-piñera-cavieres-81662337a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
